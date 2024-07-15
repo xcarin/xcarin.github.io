@@ -60,7 +60,7 @@ The scrum team is made up of three main roles: Product owner, Scrum master and D
 
 Let’s dive into the scrum workflow in more detail to get a better understanding of agile development.
 
-<img width="2431" alt="flow" src="https://github.com/user-attachments/assets/0dc7916f-831a-4556-806a-b792a8cb6279">
+<img width="2431" alt="workflow" src="https://github.com/user-attachments/assets/e14626f8-9531-4c84-93d8-d0322e828bc7">
 
 <br/>
 <br/>
