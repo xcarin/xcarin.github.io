@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![iris](https://github.com/user-attachments/assets/f0512572-1c75-4719-bab5-b8a51f2ea184)
+![iris](https://github.com/user-attachments/assets/1f05da42-4e48-4474-9470-c607087fd3e3)
 
 Click [here](https://github.com/cshiyun/data/blob/main/python/project%201%20-%20iris%20ml.ipynb) to view more.
 
