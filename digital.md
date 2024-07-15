@@ -10,7 +10,7 @@ permalink: /digital/
 With the rise of digitalisation around the world, businesses are leveraging technologies to continuous improvement the product in an iterative development. Not only it is important to keep up to date with the latest technology but also to enhance user (UIUX) experience. Digital products involve the product development process through software development practices, allowing digital products and services to deliver faster as well as high-quality products to meet users’ needs.
 
 ### **Software development life cycle**
-![s1](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/bbafb434-5ae7-45a5-a4db-3cca2506828a)
+![sdlc](https://github.com/user-attachments/assets/79dd3e56-13f5-462d-9b0a-b06db2a6fa55)
 
 Software development life cycle (SDLC) is a methodology used in product/project management that describes the software product creation process. One of the best methodologies is the “Agile” model as shown in the above diagram.
 1. Requirement gathering
@@ -52,26 +52,23 @@ This phase includes gathering any feedback from end users’, identifying other 
 ### **Scrum**
 ### **Agile methodology**
 
-![s2](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/fb65c6ff-5cb4-45b0-a457-0e94ee39d962)
+![scrumagile](https://github.com/user-attachments/assets/2f3048d6-d235-488c-83db-4cfbbc91940b)
 
 Scrum is an agile methodology framework that uses an iterative approach and breaks down complex projects into smaller manageable phases known as the “sprint” process. The goal is to deliver high-quality products quickly and efficiently while remaining responsive to end users’ needs as well as changing requirements easily.
 
 The scrum team is made up of three main roles: Product owner, Scrum master and Development team.
 
-![s3](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/add7cd55-818b-4852-a9ce-1312c273ea06)
-
 Let’s dive into the scrum workflow in more detail to get a better understanding of agile development.
 
-![s4](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/7f9f1b3f-f8a7-420c-9db0-9c1317e904fe)
-
-![s5](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/70613cb2-deb8-446a-8d1b-d21e62168d1d)
+<img width="2431" alt="flow" src="https://github.com/user-attachments/assets/0dc7916f-831a-4556-806a-b792a8cb6279">
 
 <br/>
 <br/>
 
 ## UXUI
 ### User experience (UX)
-![design thinking](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/50c9ee69-bf25-4864-bf48-faa9b766ddca)
+
+![design thinking](https://github.com/user-attachments/assets/9311b53a-587d-4088-8b70-3e8ec724c90f)
 
 Ux design is a problem solving process that involves understand user needs and improves user experience.
 
@@ -107,7 +104,7 @@ Ux design is a problem solving process that involves understand user needs and i
 
 <br/>
 
-![diamond](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/c48371eb-6f82-4565-94b5-5663743eec1d)
+![diamond](https://github.com/user-attachments/assets/5042c4bb-301b-498d-bfb2-1f03be1e97f7)
 
 <b>Double Diamond</b>
 
@@ -136,7 +133,8 @@ Ux design is a problem solving process that involves understand user needs and i
 <br/>
 
 ### User interface (UI)
-![ui process](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/e35e1956-a4a4-4f0a-b8b9-44a44c2cda49)
+![ui process](https://github.com/user-attachments/assets/e31d4d8e-f67b-46c5-8cd4-50f8ebb3bde4)
+
 
 Ui design is the process of creating interactivity, look, feel, and functionality of a digital product,
 providing user-friendly and intuitive experience.
