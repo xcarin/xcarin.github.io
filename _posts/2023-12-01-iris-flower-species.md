@@ -22,5 +22,6 @@ Click [here](https://github.com/cshiyun/data/blob/main/python/project%201%20-%20
 
 <br/>
 
-###### Reference
-###### - https://www.analyticsvidhya.com/blog/2022/06/iris-flowers-classification-using-machine-learning/
+> Reference
+
+- https://www.analyticsvidhya.com/blog/2022/06/iris-flowers-classification-using-machine-learning/
