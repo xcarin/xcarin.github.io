@@ -1,8 +1,7 @@
 ---
 layout: post
 ---
-
-![iris](https://github.com/user-attachments/assets/1f05da42-4e48-4474-9470-c607087fd3e3)
+![iris](https://github.com/user-attachments/assets/ade86343-fa41-480f-9b63-b2541b0922c1)
 
 Click [here](https://github.com/cshiyun/data/blob/main/python/project%201%20-%20iris%20ml.ipynb) to view more.
 
