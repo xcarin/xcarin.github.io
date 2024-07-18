@@ -13,7 +13,7 @@ layout: post
 
 > Solution
 
-- To understand customer needs through basic visualise and anlyse sample data using python and tableau.
+- To understand customer needs through basic visualise and anlyse mock data using python and tableau.
 
 > Python
 
