@@ -5,7 +5,6 @@ remote_theme: jekyll/minima
 # Link pages
 header_pages:
   - about.md
-  - school projects.md
   - data.md
   - digital.md
 
