@@ -15,8 +15,8 @@ Click [here](https://medium.com/@csyme/data-analysis-and-visualisation-using-piv
 
 > Advanced Excel
 
-- PivotTable & PivotChart
-- Slicer to filter data
+- PivotTables & PivotCharts
+- Slicers
 
 
 
