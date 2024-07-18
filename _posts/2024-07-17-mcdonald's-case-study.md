@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-![m preview](https://github.com/user-attachments/assets/552414cc-2c35-46d7-9604-003421ab95d4)
+![m preview](https://github.com/user-attachments/assets/30152452-7f5f-409e-9c0f-31668db0c074)
 
 1. Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
 
