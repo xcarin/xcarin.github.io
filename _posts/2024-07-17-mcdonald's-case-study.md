@@ -3,7 +3,9 @@ layout: post
 ---
 ![m preview](https://github.com/user-attachments/assets/552414cc-2c35-46d7-9604-003421ab95d4)
 
-Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
+1. Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
+
+2. Click [here](https://public.tableau.com/app/profile/sy00/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
 
 > Problem
 
