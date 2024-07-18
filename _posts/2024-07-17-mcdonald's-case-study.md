@@ -1,7 +1,8 @@
 ---
 layout: post
 ---
-![m previewng](https://github.com/user-attachments/assets/27e0b048-b36f-456e-b596-b66aa3a3be41)
+![m preview](https://github.com/user-attachments/assets/552414cc-2c35-46d7-9604-003421ab95d4)
+
 Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
 
 > Problem
