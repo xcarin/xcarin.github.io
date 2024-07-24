@@ -12,11 +12,11 @@
 - Add new workspace
 - Rename workspace and board title
 - Create groups
-- Update tables and columns
+- Update groups columns
 
 ![p1](https://github.com/user-attachments/assets/16f8a324-edb7-4818-beda-a82148a28aa1)
 
-- Under project deadline column, select settings, Set as a deadline
+- Under project deadline column, select settings, set as a deadline
 
 - Choose a status column and connect columns
 
@@ -27,6 +27,7 @@
 ![p1 2](https://github.com/user-attachments/assets/f18cab67-1682-40a8-8207-8416b3658da1)
 
 - Automate workflow
+
 When status changes to done
 Then move item to completed
 
