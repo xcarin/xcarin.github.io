@@ -28,13 +28,14 @@ permalink: /automations/
 
 ![p1 1](https://github.com/user-attachments/assets/321032e5-b98a-4ea3-aa52-a3a9bad3e43a)
 
-- Select automate, status change category and choose the below template.
+- Select automate, status change category and choose the template.
 
-![p1 2](https://github.com/user-attachments/assets/f18cab67-1682-40a8-8207-8416b3658da1)
+When status changes to something move item to group
 
 - Automate workflow
 
 When status changes to done
+
 Then move item to completed
 
 ![1 3](https://github.com/user-attachments/assets/1c6bb387-9ac8-4e53-805d-53a4a8c32b58)
