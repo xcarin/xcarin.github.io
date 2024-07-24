@@ -19,11 +19,7 @@ permalink: /automations/
 - Rename workspace and board title
 - Create groups
 - Update groups columns
-
-![p1](https://github.com/user-attachments/assets/16f8a324-edb7-4818-beda-a82148a28aa1)
-
 - Under project deadline column, select settings, set as a deadline
-
 - Choose a status column and connect columns
 
 ![p1 1](https://github.com/user-attachments/assets/321032e5-b98a-4ea3-aa52-a3a9bad3e43a)
