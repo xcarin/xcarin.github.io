@@ -1,0 +1,37 @@
+
+# Automations
+
+- Monday
+- Jira
+- RPA
+
+## Monday
+
+### Automate project deadline
+
+1. Add new workspace
+2. Rename workspace and board title
+3. Create groups
+4. Update tables and columns
+
+![p1](https://github.com/user-attachments/assets/16f8a324-edb7-4818-beda-a82148a28aa1)
+
+5. Under project deadline column, select settings, Set as a deadline
+
+6. Choose a status column and connect columns
+
+![p1 1](https://github.com/user-attachments/assets/321032e5-b98a-4ea3-aa52-a3a9bad3e43a)
+
+7. Select automate, status change category and choose the below template.
+
+![p1 2](https://github.com/user-attachments/assets/f18cab67-1682-40a8-8207-8416b3658da1)
+
+8. Automate workflow
+When status changes to done
+Then move item to completed
+
+![1 3](https://github.com/user-attachments/assets/1c6bb387-9ac8-4e53-805d-53a4a8c32b58)
+
+
+
+
