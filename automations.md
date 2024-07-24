@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Automations
+permalink: /automations/
+---
 # Automations Documentation
 
 - Monday
