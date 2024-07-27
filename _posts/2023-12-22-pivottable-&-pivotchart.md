@@ -11,12 +11,12 @@ Click [here](https://medium.com/@csyme/data-analysis-and-visualisation-using-piv
 
 > Solution
 
-- To identify top chocolate sales in different countries using Advanced Excel without complex formulas.
+- To identify top chocolate sales in different countries using advanced excel.
 
 > Advanced Excel
 
-- PivotTables & PivotCharts
-- Slicers
+- PivotTable & PivotChart
+- Slicer to filter data
 
 
 
