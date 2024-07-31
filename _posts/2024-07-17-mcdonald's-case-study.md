@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-![m dashboard](https://github.com/user-attachments/assets/baf9d13a-ed36-4c11-b846-fe3943cbff3e)
+![mg dashboard](https://github.com/user-attachments/assets/5ea75658-7356-4a6e-9b43-12df3b58b584)
 
 1. Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
 
