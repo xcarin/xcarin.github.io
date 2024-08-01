@@ -9,7 +9,7 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 
 > Systems
 
-- Digital product management
+
 
 > Data
 
