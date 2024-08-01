@@ -9,16 +9,16 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 
 > Systems
 
-Digital Product Management
+- Digital Product Management
 
 > Data
 
-Certified Data Analytics
+- Certified Data Analytics
 
 
 > Link
 
-[Github](https://github.com/cshiyun)
+- [Github](https://github.com/cshiyun)
 
 <br/>
 
