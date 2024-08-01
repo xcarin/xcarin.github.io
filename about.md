@@ -15,11 +15,8 @@ Digital Product Management
 
 Certified Data Analytics
 
-> Links
 
-- [Github](https://github.com/cshiyun)
-- [Medium](https://medium.com/@csyme)
-- [Tableau](https://public.tableau.com/app/profile/sy00/vizzes)
+> [Github](https://github.com/cshiyun)
 
 <br/>
 
