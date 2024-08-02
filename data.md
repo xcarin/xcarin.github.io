@@ -51,19 +51,19 @@ Data analysis processes involve the following:
 - Identify data, key performance indicators or metrics to measure outcomes
 
 2. Data collection
-Quantitative (numerical) & Qualitative (categorical)
-Data is collected from different sources, including research, surveys, interview, databases, etc which can be stored in database (SQL) or spreadsheet.
+- Quantitative (numerical) & Qualitative (categorical)
+- Data is collected from different sources, including research, surveys, interview, databases, etc which can be stored in database (SQL) or spreadsheet.
 
 4. Data cleaning
-Unstructured data includes incorrect spelling, duplicates, extra spacing or invalid fields.
-It depends on data integrity to ensure accuracy and reliability of the data.
+- Unstructured data includes incorrect spelling, duplicates, extra spacing or invalid fields.
+- It depends on data integrity to ensure accuracy and reliability of the data.
 
 6. Data analysis
-Example: Using Excel, SQL, Tableau, Python, R or Power BI, apply data mining techniques to identify patterns and trends.
+- Example: Using Excel, SQL, Tableau, Python, R or Power BI, apply data mining techniques to identify patterns and trends.
 
 8. Data visualization & storytelling
-Prepare reports with charts and visuals
-Communicate clear research findings to target users
+- Prepare reports with charts and visuals
+- Communicate clear research findings to target users
 
 <br/>
 <br/>
