@@ -52,17 +52,21 @@ Understand business problems and propose clear solutions
 Identify data, key performance indicators or metrics to measure outcomes
 
 2. Data collection
+
 Quantitative (numerical) & Qualitative (categorical)
 Data is collected from different sources, including research, surveys, interview, databases, etc which can be stored in database (SQL) or spreadsheet.
 
-3. Data cleaning
+4. Data cleaning
+
 Unstructured data includes incorrect spelling, duplicates, extra spacing or invalid fields.
 It depends on data integrity to ensure accuracy and reliability of the data.
 
-4. Data analysis
+6. Data analysis
+
 Example: Using Excel, SQL, Tableau, Python, R or Power BI, apply data mining techniques to identify patterns and trends.
 
-5. Data visualization & storytelling
+8. Data visualization & storytelling
+
 Prepare reports with charts and visuals
 Communicate clear research findings to target users
 
