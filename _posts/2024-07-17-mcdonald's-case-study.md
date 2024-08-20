@@ -5,7 +5,7 @@ layout: post
 
 1. Click [here](https://github.com/cshiyunx/data-digital/blob/main/data/python/projects/mc%20feedback.md) to read more.
 
-2. Click [here](https://public.tableau.com/app/profile/sy00/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
+2. Click [here](https://public.tableau.com/app/profile/csy00/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
 
 > Problem
 
