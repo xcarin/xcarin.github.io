@@ -3,7 +3,7 @@ layout: post
 ---
 ![mg dashboard](https://github.com/user-attachments/assets/5ea75658-7356-4a6e-9b43-12df3b58b584)
 
-1. Click [here](https://medium.com/@csyme/-a2ae80caade6) to read more in Medium.
+1. Click [here](https://github.com/cshiyunx/data-digital/blob/main/data/python/projects/mc%20feedback.md) to read more.
 
 2. Click [here](https://public.tableau.com/app/profile/sy00/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
 
