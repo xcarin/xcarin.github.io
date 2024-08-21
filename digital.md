@@ -165,9 +165,3 @@ providing user-friendly and intuitive experience.
 > Prototype
 
 <br/>
-
-## Automations
-
-> Monday
-
-- [Automate projects tracking](https://github.com/cshiyun/data-digital/blob/main/digital/automations/monday%20-%20automate%20projects%20tracking.md)
