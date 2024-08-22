@@ -3,7 +3,7 @@ layout: post
 ---
 ![mg dashboard](https://github.com/user-attachments/assets/5ea75658-7356-4a6e-9b43-12df3b58b584)
 
-Click [here](https://public.tableau.com/app/profile/csy00z/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
+Click [here](https://public.tableau.com/app/profile/xcarin) to view it interactively in Tableau Public.
 
 > Problem
 
@@ -24,10 +24,9 @@ Click [here](https://public.tableau.com/app/profile/csy00z/viz/McdonaldsFeedback
 - Filters
 
 <br/>
+<br/>
 
-# Mcdonald’s Feedback Case Study
-
-> UIUX Feedback & Basic Sentiment Analysis
+# UIUX Feedback & Basic Sentiment Analysis
 
 ### User Feedback Flow
 
@@ -53,7 +52,6 @@ The dataset consists of 33000+ records (I have edited and added new columns.) mo
 3. In this case study, python will be used to conduct exploratory data analysis and basic natural language processing sentiment analysis.
 
 <br/>
-<br/>
 
 ## Quick & Basic — Exploratory Data Analysis & Sentiment Analysis
 
@@ -69,18 +67,10 @@ Sentimental analysis uses natural language processing to identify and classify u
 
 ![ms](https://github.com/user-attachments/assets/389f08d4-dfc7-4266-8599-58d457a5f8d3)
 
-After calculating the sentiments, the different sentiment categories are combined into the original dataset.
+After calculating the sentiments, the different sentiment categories are combined into the original dataset and create a dashboard.
 
 ![mergems](https://github.com/user-attachments/assets/6476ab1a-b145-4919-9668-52d01e3170a2)
 
-<br/>
-<br/>
-
-## Tableau — Ratings & Reviews
-
-![m dashboard](https://github.com/user-attachments/assets/22b0a548-4f17-4c4e-83ad-d29c436340f5)
-
-<br/>
 <br/>
 
 > References
