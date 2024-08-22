@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hello, I'm Csy🪴
+## Hello,🪴
 I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
 
 > Systems
@@ -18,7 +18,7 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 
 > Link
 
-- [Github](https://github.com/cshiyunx)
+- [Github](https://github.com/xcarin)
 
 <br/>
 
