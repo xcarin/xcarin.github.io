@@ -19,7 +19,7 @@ layout: post
 <br/>
 <br/>
 
-# Data Analysis using Excel Table, PivotTable & PivotChart
+## Data Analysis using Excel Table, PivotTable & PivotChart
 
 The dataset consists of 300 records of chocolate sales data in different countries which include sales person, geography (country), product sold, sales amount, units sold, cost per unit, total cost, profit earned and profit percentage.
 
