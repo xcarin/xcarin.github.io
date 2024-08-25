@@ -26,7 +26,7 @@ Click [here](https://public.tableau.com/app/profile/xcarin) to view it interacti
 <br/>
 <br/>
 
-# UIUX Feedback & Basic Sentiment Analysis
+## UIUX Feedback & Basic Sentiment Analysis
 
 ### User Feedback Flow
 
@@ -73,7 +73,6 @@ After calculating the sentiments, the different sentiment categories are combine
 
 <br/>
 
-> References
+> Reference
 
-- https://en.wikipedia.org/wiki/Golden_Arches
 - https://www.mcdonalds.com.sg
