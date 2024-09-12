@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## Hello,🪴
+## Hello🪴
 I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
+
+> Document learning
 
 > Systems
 
@@ -14,7 +16,6 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 > Data
 
 - Certified Data Analytics
-
 
 > Link
 
