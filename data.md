@@ -67,32 +67,3 @@ Data analysis processes involve the following:
 
 <br/>
 <br/>
-
-## Data Science
-
-### What is Data Science?
-Data science is about extracting insights from raw data (structured and unstructured) for business decision-making known as data science pipeline.
-
-![ds](https://github.com/user-attachments/assets/c88817d3-13f0-4e6c-93bd-b29f1c8cb431)
-
-As technology advances, data science applications can be found in various industries. A data science product (project) is maintained through a data science lifecycle to help answer questions and achieve business goals as shown below:
-
-![dscycle](https://github.com/user-attachments/assets/7445ff39-4dd8-41d2-a9b2-a3648bf05e4b)
-
-Artificial Intelligence and Machine Learning are some of the tech terms that we most often hear today.
-
-![aimldl](https://github.com/user-attachments/assets/a36d95e8-e0af-4f76-9a14-b895ddd6ee3f)
-
-- Artificial Intelligence uses computer science and datasets that enable systems to learn human-like behaviour.
-- Machine Learning is a subfield of artificial intelligence techniques that help systems to extract information and learn from data.
-
-### Machine Learning
-There are two types of machine learning techniques as listed below:
-
-Supervised learning
-1. Classification (labelled data)
-2. Regression (unlabelled data)
-
-Unsupervised learning
-1. Clustering (unlabelled data)
-2. Anomaly detection (unlabelled data)
