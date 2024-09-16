@@ -15,14 +15,14 @@ Below are the steps to automate the daily data tracking:
 - Remaining days
 - Status
 
-1. Important columns
+<b>Important columns</b>
 
 - Add another notification column with today’s date and set the reminder days.
 
 ![todays date](https://github.com/user-attachments/assets/e2de0617-e2f3-4c95-a3d9-73ac28b87ee9)
 
 
-2. Notifications column
+<b>Notifications column</b>
 
 - Enter data start date, end date and calculate the remaining days.
 
@@ -32,7 +32,7 @@ Below are the steps to automate the daily data tracking:
 
 ![status](https://github.com/user-attachments/assets/e6b2f8e3-fd8c-46f7-947b-96b37433b6f0)
 
-3. Tracking formula
+<b>Tracking formula</b>
 
 - If the data is huge, it would be more visible to set the status column with colours.
 - Go to conditional formatting > manage rules > Set the status colours
