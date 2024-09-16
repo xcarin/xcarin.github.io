@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 ## Hello🪴
-I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
-
-> Document learning
+I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data. The purpose of the website is to document my learning processes.
 
 > Systems
 
