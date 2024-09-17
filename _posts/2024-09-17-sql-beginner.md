@@ -3,8 +3,6 @@ layout: post
 ---
 ![documentation](https://github.com/user-attachments/assets/da590bad-f37f-4128-8d6d-289ebabccbf6)
 
-# SQL
-
 ## SQL syntax
 - SELECT: extract
 
