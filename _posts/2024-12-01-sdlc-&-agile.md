@@ -8,8 +8,10 @@ With the rise of digitalisation around the world, businesses are leveraging tech
 ![Image](https://github.com/user-attachments/assets/06206e85-7c7e-4057-bd67-953e78fd34be)
 
 Software development life cycle (SDLC) is a methodology used in product/project management that describes the software product creation process. One of the best methodologies is the “Agile” model as shown in the above diagram.
-1. Requirement gathering
-2. Analysis
+
+> Requirement gathering
+
+> Analysis
 
 The process involves planning, collaborating with stakeholders to identify business user needs and gather requirements for the system to address the problem.
 - Identify problem statement
@@ -19,15 +21,15 @@ Requirement gathering describes the purpose of the system. Requirements are clas
 
 After gathering requirements, the expected software requirements are reviewed, approved and documented in the requirement specification (software requirement specification, user requirement specification or system requirement specification).
 
-3. Design
+> Design
 
 This phase includes communicating business rules and application logic, followed by developing architecture, prototype and present in design document specification.
 
-4. Develop
+> Develop
 
 This phase includes developing products according to the design document specification.
 
-5. Testing
+> Testing
 
 Software testing involves from manual testing to automated testing. In this part, manual testing methods will further explain in detail below:
 
@@ -41,10 +43,12 @@ White box: test internal structure
 Grey box: test combination of black box testing and white box testing
 Code is tested through different types of software testing to identify any bugs, errors or missing requirements, ensuring smooth software performance to meet requirements.
 
-6. Deployment
+> Deployment
+
 Final code software product will test in user acceptance testing before sign off and release to the production environment.
 
-8. Maintenance
+> Maintenance
+
 This phase includes gathering any feedback from end users’, identifying other issues (UI, etc.), code enhancement or new and changing requirements.
 
 ### Scrum
