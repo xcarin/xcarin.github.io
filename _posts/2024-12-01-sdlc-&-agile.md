@@ -20,12 +20,15 @@ Requirement gathering describes the purpose of the system. Requirements are clas
 After gathering requirements, the expected software requirements are reviewed, approved and documented in the requirement specification (software requirement specification, user requirement specification or system requirement specification).
 
 3. Design
+
 This phase includes communicating business rules and application logic, followed by developing architecture, prototype and present in design document specification.
 
 4. Develop
+
 This phase includes developing products according to the design document specification.
 
 5. Testing
+
 Software testing involves from manual testing to automated testing. In this part, manual testing methods will further explain in detail below:
 
 Black box: test system external behaviour
