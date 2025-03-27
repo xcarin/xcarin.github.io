@@ -14,24 +14,20 @@ Below are the steps to automate the daily data tracking:
 Important columns
 - Add another notification column with today’s date and set the reminder days.
 
-![image](images/e1.png)
+![image](https://raw.githubusercontent.com/xcarin/xcarin.github.io/refs/heads/main/images/reminders1.png)
 
 Notifications column
 - Enter data start date, end date and calculate the remaining days.
 
-![image](images/e2.png)
+![image](https://raw.githubusercontent.com/xcarin/xcarin.github.io/refs/heads/main/images/reminders2.png)
 
 - Enter the formula in status column
 
-![image](/images/e3.png)
-
-![Image](https://github.com/user-attachments/assets/9e5f0984-ed3d-4ace-9f16-90818a113fc3)
+![Image](https://raw.githubusercontent.com/xcarin/xcarin.github.io/refs/heads/main/images/reminders3.png)
 
 Tracking formula
 - If the data is huge, it would be more visible to set the status column with colours.
 - Go to conditional formatting > manage rules > Set the status colours
 
-![image](/images/e4.png)
-
-![Image](https://github.com/user-attachments/assets/151dc967-8592-44c7-bec9-a8004a5f0178)
+![image](https://raw.githubusercontent.com/xcarin/xcarin.github.io/refs/heads/main/images/reminders4.png)
 
