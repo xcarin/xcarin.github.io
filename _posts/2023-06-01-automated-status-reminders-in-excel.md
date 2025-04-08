@@ -3,7 +3,8 @@ layout: post
 ---
 Microsoft excel is a common data tool with different functions that is being used in many sectors. Excel enables users to record, organise, track, calculate and analyse data in spreadsheets. However it can becomes more challenging to track, especially if there is large amount of data.
 
-Objective: Reduce repetitive manual tasks & data inaccuracy by human errors
+Objective: Reduce repetitive manual tasks & data inaccuracy by human errors.
+
 Below are the steps to automate the daily data tracking:
 - Create the list with important columns
 - Start date
